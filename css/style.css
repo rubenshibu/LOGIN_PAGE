@@ -53,7 +53,7 @@ form{
 
 .login-content h2{
 	margin: 15px 0;
-	color: #333;
+	color: rgb(173, 94, 94);
 	text-transform: uppercase;
 	font-size: 2.9rem;
 }
@@ -72,7 +72,7 @@ form{
 }
 
 .i{
-	color: #d9d9d9;
+	color: #e0cfcf;
 	display: flex;
 	justify-content: center;
 	align-items: center;
