@@ -1,3 +1,3 @@
 # LOGIN_PAGE
 
-Clone the repo and open index.html
+It is a login page created using HTML-CSS-JavaScript
